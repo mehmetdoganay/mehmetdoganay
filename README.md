@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning **JavaScript , React , C#, Css , HTML**
 
-- 📫 How to reach me **fbmehmetq@hotmail.com**
+- 📫 How to reach me **mehmetdganay@gmail.com
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
