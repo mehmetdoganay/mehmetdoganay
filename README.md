@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/mehmetdoganay0" target="blank"><img src="https://img.shields.io/twitter/follow/mehmetdoganay0?logo=twitter&style=for-the-badge" alt="mehmetdoganay0" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript , React , C#, Css , HTML**
+- 🌱 I’m currently learning ** C#,SQL HTML,CSS,**
 
 - 📫 How to reach me **mehmetdganay@gmail.com
 **
