@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://twitter.com/mehmetdoganay0" target="blank"><img 
 
 <img align ="right" src = "https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI_400x400.jpg" width="250" height="250">
- <h1> 📫 How to reach me:  mehmetdganay@gmail.com </h1>
+ <h3> 📫How to reach me:  mehmetdganay@gmail.com </h3>
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Technologies</h2>                                                                                                                       
 
