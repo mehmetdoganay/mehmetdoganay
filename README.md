@@ -30,11 +30,12 @@
 <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 
 
-
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetdoganay&show_icons=true&locale=en&layout=compact" alt="mehmetdoganay" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetdoganay&theme=default" alt="mehmetdoganay" width="50%" /></p>
 ------
 Credit: [mehmetdoganay](https://github.com/mehmetdoganay)             
 
