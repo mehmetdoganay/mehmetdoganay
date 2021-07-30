@@ -8,7 +8,6 @@
 <img align ="right" src = "https://pbs.twimg.com/profile_images/1278344911847223297/k1ginRMI_400x400.jpg" width="250" height="250">
 
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Technologies</h2>                                                                                                                       
-
 <h1>
  <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white"/>
@@ -29,15 +28,9 @@
 <img alt="Visual Studio" src="https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"/>
 <img alt="Discord" src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
 
-
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetdoganay&show_icons=true&locale=en&layout=compact" alt="mehmetdoganay" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehmetdoganay&theme=default" alt="mehmetdoganay" width="50%" /></p>
-------
-Credit: [mehmetdoganay](https://github.com/mehmetdoganay)             
-
-
-
+------            
