@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=32CD32&width=600&lines=Hey+I+am+Mehmet.;Welcome+to+my+page.;I+am+Jr.+.NET+Developer.)](https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=40&color=32CD32&width=600&lines=Hey+I+am+Mehmet.;Welcome+to+my+page.;I+am+Jr.+.NET+Developer.](https://git.io/typing-svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetdoganay&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetdoganay" /> </p>
 
